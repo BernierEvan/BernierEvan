@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://via.placeholder.com/1200x250?text=Bernier+Evan+-+Full+Stack+Developer" alt="Banner">
+  <img src="[https://via.placeholder.com/1200x250?text=Bernier+Evan+-+Full+Stack+Developer](https://media.licdn.com/dms/image/v2/D4D16AQFFx7v04prZTw/profile-displaybackgroundimage-shrink_200_800/B4DZqKO12FJEAU-/0/1763255741199?e=1766016000&v=beta&t=ivQT_15XxXb-bgCVUstBNZZE0G8AGJftcJA6moPAGak)" alt="Banner">
 </p>
 
 <h1 align="center">Hi, I'm <strong>Bernier Evan</strong> 👋</h1>
@@ -103,7 +103,7 @@ Seeking an **internship in web or software development** to apply my skills, lea
 ---
 
 <p align="center">
-  <img src="https://via.placeholder.com/150?text=BE" alt="Logo" width="120">
+  <img src="[https://via.placeholder.com/150?text=BE](https://media.licdn.com/dms/image/v2/D4D35AQF6UQ6DFLcFpA/profile-framedphoto-shrink_200_200/B4DZrBPQZWKIAc-/0/1764178593751?e=1764806400&v=beta&t=vxALZnSpRnkFhDnLAA1Tm_nYkgIWqoCnNq6aCB3PIzU)" alt="Logo" width="120">
 </p>
 
 <p align="center">Thanks for visiting my profile 👋</p>
