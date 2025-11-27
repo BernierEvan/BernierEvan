@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <strong>[Vous êtes français ? Cliquez ici !](./README_FR.md)</strong>
+  <strong><a href="./README_FR.md">[ Vous êtes français ? Cliquez ici ! ]</a></strong>
 </p>
 
 <h1 align="center">Hi, I'm <strong>Bernier Evan</strong> 👋</h1>
@@ -107,7 +107,7 @@ Seeking an **internship in web or software development** to apply my skills, lea
 ---
 
 <p align="center">
-  <img src="<img src="https://i.ibb.co/23m5sTSG/profile-pic.png" alt="profile-pic" border="0">" alt="Logo" width="120">
+  <img src="https://i.ibb.co/23m5sTSG/profile-pic.png" alt="profile-pic" width="120" />
 </p>
 
 <p align="center">Thanks for visiting my profile 👋</p>
