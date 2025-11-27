@@ -1,16 +1,109 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://via.placeholder.com/1200x250?text=Bernier+Evan+-+Full+Stack+Developer" alt="Banner">
+</p>
 
-<!--
-**BernierEvan/BernierEvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm <strong>Bernier Evan</strong> 👋</h1>
+<h3 align="center">Full-Stack Developer Student • BTS SIO SLAM • Seeking Internship</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <strong>Available for an internship from January 5th to February 27th, 2026</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+Full-stack development student in **BTS SIO SLAM (2nd year)**, passionate about building web and software applications.  
+I enjoy backend logic, frontend design, and exploring cybersecurity fundamentals.  
+I’m currently seeking an **internship in development** to grow my skills and contribute to meaningful projects.
+
+---
+
+## 🔧 Skills & Technologies
+
+### **Languages**
+PHP • JavaScript • C# • C++ • SQL • Python • Go (basics)
+
+### **Frameworks & Backend**
+Symfony • Doctrine • Composer • PHPUnit • REST API • MVC • Arduino / ESP32
+
+### **Frontend**
+HTML5 • CSS3 • SCSS / SASS • Tailwind CSS • PWA
+
+### **Tools**
+Git • GitHub • Docker • Agile • SEO • Notion  
+MariaDB • PostgreSQL • MySQL • SQLite  
+Platforms: Debian • Ubuntu • Windows • ESP32
+
+---
+
+## 📌 Experience
+
+### **Systech (Gallardon)** – R&D Intern (June 2025)
+- Development on **ESP32 microcontrollers**  
+- C++ programming & hardware integration  
+- Collaboration with the R&D team for feature deployment  
+- Technical documentation & performance optimization
+
+---
+
+## 🚀 Projects
+
+### **📁 3D Portfolio (in progress)**
+Built with **Three.js**, featuring clean UI and smooth animations.
+
+### **💰 Game-Like Crypto/Bank Simulator**
+A mix of UI, business logic, and interactive financial simulation.
+
+### **📱 Daylence – Life Assistant PWA**
+Built with Symfony PHP, this Progressive Web App integrates multiple functionalities—sleep tracking, transport, food & recipes, events, to-do lists, calendar, and more—to serve as a complete personal life assistant.
+
+---
+
+## 📚 Currently Learning
+- Docker & containerization  
+- React & modern frontend tooling  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BernierEvan&show_icons=true&theme=default" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernierEvan&layout=compact&theme=default" height="160">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=BernierEvan" height="160">
+</p>
+
+---
+
+## 🛠️ Languages & Tools (Badges)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,js,cs,cpp,go,python,html,css,tailwind,symfony,linux,windows,github,git,docker,mysql,postgres,sqlite,vscode" />
+</p>
+
+---
+
+## 📫 Contact Me
+
+- **📧 Email:** bernier.evan.pro@gmail.com
+- **📞 Phone:** +33 6 51 88 46 03
+- **🔗 LinkedIn:** https://www.linkedin.com/in/bernier-evan  
+- **🌐 Portfolio:** Work in progress (Three.js)  
+- **📍 Location:** Rambouillet, France  
+
+---
+
+## 🎯 Internship Objective
+Seeking an **internship in web or software development** to apply my skills, learn from real production environments, and grow within a team.
+
+---
+
+<p align="center">
+  <img src="https://via.placeholder.com/150?text=BE" alt="Logo" width="120">
+</p>
+
+<p align="center">Thanks for visiting my profile 👋</p>
