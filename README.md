@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://ibb.co/LzBdXqQH" alt="Banner">
+  <img src="https://i.ibb.co/1fBGtpsj/upscaled-Linkedin-Banner.jpg" alt="upscaled-Linkedin-Banner" border="0">
 </p>
 
 <h1 align="center">Hi, I'm <strong>Bernier Evan</strong> 👋</h1>
