@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="[https://via.placeholder.com/1200x250?text=Bernier+Evan+-+Full+Stack+Developer](https://media.licdn.com/dms/image/v2/D4D16AQFFx7v04prZTw/profile-displaybackgroundimage-shrink_200_800/B4DZqKO12FJEAU-/0/1763255741199?e=1766016000&v=beta&t=ivQT_15XxXb-bgCVUstBNZZE0G8AGJftcJA6moPAGak)" alt="Banner">
+  <img src="https://ibb.co/LzBdXqQH" alt="Banner">
 </p>
 
 <h1 align="center">Hi, I'm <strong>Bernier Evan</strong> 👋</h1>
