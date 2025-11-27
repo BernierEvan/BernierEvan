@@ -3,6 +3,10 @@
   <img src="https://i.ibb.co/1fBGtpsj/upscaled-Linkedin-Banner.jpg" alt="upscaled-Linkedin-Banner" border="0">
 </p>
 
+<p align="center">
+  <strong>[Vous êtes français ? Cliquez ici !](./README_FR.md)</strong>
+</p>
+
 <h1 align="center">Hi, I'm <strong>Bernier Evan</strong> 👋</h1>
 <h3 align="center">Full-Stack Developer Student • BTS SIO SLAM • Seeking Internship</h3>
 
@@ -103,7 +107,7 @@ Seeking an **internship in web or software development** to apply my skills, lea
 ---
 
 <p align="center">
-  <img src="[https://via.placeholder.com/150?text=BE](https://media.licdn.com/dms/image/v2/D4D35AQF6UQ6DFLcFpA/profile-framedphoto-shrink_200_200/B4DZrBPQZWKIAc-/0/1764178593751?e=1764806400&v=beta&t=vxALZnSpRnkFhDnLAA1Tm_nYkgIWqoCnNq6aCB3PIzU)" alt="Logo" width="120">
+  <img src="<img src="https://i.ibb.co/23m5sTSG/profile-pic.png" alt="profile-pic" border="0">" alt="Logo" width="120">
 </p>
 
 <p align="center">Thanks for visiting my profile 👋</p>
